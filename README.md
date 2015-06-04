@@ -1,4 +1,4 @@
-# supr_editorial_content
+# Supr! Editorial Content
 A Drupal Feature Module with social content capabilities
 
 ## Install
