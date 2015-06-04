@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Editorial Content feature.
+ */
+
+include_once 'supr_editorial_content.features.inc';
